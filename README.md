@@ -1,4 +1,4 @@
-# test-repository
+# My first repo
 This is a test description
 
 
